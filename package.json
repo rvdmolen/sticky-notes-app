@@ -1,0 +1,20 @@
+{
+  "name": "sticky-notes-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch",
+    "start": "webpack-dev-server -d --config webpack.config.js --watch"
+  },
+  "keywords": ["es6", "webpack"],
+  "author": "R vd Molen",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "style-loader": "^0.19.1",
+    "webpack": "3.10.0",
+    "webpack-dev-server": "2.9.7"
+  }
+}

@@ -1,0 +1,1 @@
+## Sticky notes with native ES6 and webpack
